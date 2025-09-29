@@ -14,6 +14,17 @@ The course provided guidance and tutorials for building the base dashboard, but 
 
 ---
 
+## ✨ Features
+- Interactive **slicers** for filtering by Education and State  
+- **Custom visuals** for demographics breakdown (bar charts, pie charts, card visuals)  
+- **Geographic map** showing balances by U.S. States  
+- **KPIs** cards to display key metrics at a glance  
+- **Tooltips** for additional context on hover  
+- **Drill-through/detail pages** to explore customer segment details  
+- Clear and visually appealing layout for quick insights
+
+---
+
 ## 📊 Dashboard Insights
 The dashboard provides:
 - **Geographic view**: Balances by U.S. States (California, Nevada, Wyoming, Oregon)

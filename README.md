@@ -1,4 +1,4 @@
-# Power BI Dashboard: America Bank's Deposits Report
+# Power BI Dashboard: America Bank's Deposits Report (AdventureWorks)
 
 This project is a **Power BI dashboard** analyzing bank deposits across different customer demographics.  
 I created this project while learning Power BI through a **Udemy course**.  
